@@ -1,0 +1,69 @@
+======================================================================
+CUSTOMER SAYS: My skin feels dry lately, I'm not sleeping particularly well, and I want to create a better evening routine without making it complicated.
+======================================================================
+
+STEP 1 - Understand the Customer Problem:
+  Concerns: ['dry skin', 'poor sleep']
+  Time of day: evening
+  Wants a simple routine? True
+  Follow-up question: Got it - is the dryness mostly on your face, or your body too?
+
+STEP 2 - All products, ranked by relevance (8 total):
+  Barefoot Ritual Body Oil (relevance=4)
+  Moonpetal Overnight Balm (relevance=3)
+  Hydra-Mist Toning Essence (relevance=3)
+  Slow Bloom Gentle Cleansing Balm (relevance=3)
+  Calm Root Evening Tonic (relevance=2)
+  Quiet Mind Magnesium Capsules (relevance=2)
+  Golden Hour Vitamin C Serum (relevance=1)
+  Bright Start Electrolyte Blend (relevance=0)
+
+STEP 3 - Recommended routine and product (fair scoring):
+  -> Barefoot Ritual Body Oil  ($36, score=3.49)
+  -> Moonpetal Overnight Balm  ($42, score=2.7)
+
+STEP 4 - Why we picked these:
+  Barefoot Ritual Body Oil - recommended for "dry skin" because of jojoba oil, which supports softens dry skin on body. (A wellness suggestion, not a medical claim.)
+  Moonpetal Overnight Balm - recommended for "dry skin" because of squalane, which supports deep overnight hydration. (A wellness suggestion, not a medical claim.)
+
+COMPARISON - what a profit-first system would recommend instead:
+  -> Moonpetal Overnight Balm  ($42, relevance=3, score=1.4)
+  -> Barefoot Ritual Body Oil  ($36, relevance=4, score=1.28)
+This is why we DON'T let margin drive recommendations -
+it can push irrelevant, expensive products to the top.
+
+======================================================================
+CUSTOMER SAYS: I wake up feeling sluggish and my skin looks dull, need something simple to start the day.
+======================================================================
+
+STEP 1 - Understand the Customer Problem:
+  Concerns: ['low energy', 'dullness']
+  Time of day: morning
+  Wants a simple routine? True
+  Follow-up question: Got it - anything you'd like this routine to avoid?
+
+STEP 2 - All products, ranked by relevance (8 total):
+  Golden Hour Vitamin C Serum (relevance=2)
+  Bright Start Electrolyte Blend (relevance=2)
+  Moonpetal Overnight Balm (relevance=1)
+  Hydra-Mist Toning Essence (relevance=1)
+  Quiet Mind Magnesium Capsules (relevance=1)
+  Barefoot Ritual Body Oil (relevance=1)
+  Slow Bloom Gentle Cleansing Balm (relevance=1)
+  Calm Root Evening Tonic (relevance=0)
+
+STEP 3 - Recommended routine and product (fair scoring):
+  -> Golden Hour Vitamin C Serum  ($48, score=1.85)
+  -> Bright Start Electrolyte Blend  ($22, score=1.74)
+
+STEP 4 - Why we picked these:
+  Golden Hour Vitamin C Serum - recommended for "dullness" because of vitamin C, which supports brightening. (A wellness suggestion, not a medical claim.)
+  Bright Start Electrolyte Blend - recommended for "low energy" because of electrolytes, which supports morning hydration. (A wellness suggestion, not a medical claim.)
+
+COMPARISON - what a profit-first system would recommend instead:
+  -> Golden Hour Vitamin C Serum  ($48, relevance=2, score=1.2)
+  -> Moonpetal Overnight Balm  ($42, relevance=1, score=1.0)
+This is why we DON'T let margin drive recommendations -
+it can push irrelevant, expensive products to the top.
+
+PS C:\Users\Yashraj Rakibe\Downloads\ritual_concierge_prototype_2\ritual_concierge_prototype> 
